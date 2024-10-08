@@ -1,4 +1,5 @@
 # SSR issue with C3 astro blog
+https://github.com/cloudflare/workers-sdk/issues/6930  
 Trying out the astro blog template with cloudlare pages results in this error the first time you browse to a blog post
 
 ```
