@@ -9,9 +9,8 @@ post.render is not a function
 
 ### Repro steps
 1. npm create cloudflare
-1. choose the **astro** **framework** starter
-1. then choose the **blog** template
-1. run `npm run dev`2. browse to any blog post like http://localhost:4321/blog/markdown-style-guide/
+1. choose the **astro** **framework** starter, then choose the **blog** template
+1. run `npm run dev` and browse to any blog post like http://localhost:4321/blog/markdown-style-guide/
 
 This repo is the result of steps 1-3. Terminal output below.
 See related discussion on the [astro discord](https://discord.com/channels/830184174198718474/1276586107869466726/1276586107869466726)
